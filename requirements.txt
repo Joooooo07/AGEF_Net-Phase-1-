@@ -1,0 +1,13 @@
+# Packages used by both notebooks (install in Colab with: !pip install -q -r requirements.txt)
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+shap
+geoip2
+matplotlib
+seaborn
+# Tip: after a successful run, record the exact versions with  !pip freeze | grep -iE "numpy|pandas|scipy|scikit-learn|xgboost|lightgbm|shap|geoip2|matplotlib|seaborn"
+# and pin them here for exact reproducibility.

@@ -1,0 +1,10 @@
+# data and models are not stored in the repository
+data/*
+!data/README.md
+*.mmdb
+*.pkl
+*.csv
+*.binetflow
+.ipynb_checkpoints/
+__pycache__/
+.env
